@@ -1,2 +1,2 @@
 # code-the-future-demo
-cod the future demo
+code the future demo
