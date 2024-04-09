@@ -25,6 +25,7 @@ div#myDiv {
 
 h1 {
   color: blue;
+  margin: 2px;
 }
 
 h2 {
@@ -49,7 +50,7 @@ h5 {
 }
 
 a {
-  width: 200px;
+  width: 100px;
   text-decoration: none;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: white;
