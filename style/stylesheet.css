@@ -3,6 +3,7 @@
 }
 
 body {
+  padding: 20px;
   background-color: white;
   background-image: url('../images/robot-background.jpg');
   color: black;
@@ -11,8 +12,23 @@ body {
   background-position: center center;
 }
 
+div {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+div#myDiv {
+  transform: rotate(20deg);
+}
+
 h1 {
   color: blue;
+}
+
+h2 {
+  color: red;
 }
 
 h5 {
@@ -40,7 +56,7 @@ a {
   padding: 7px;
   background-color: rgb(123, 176, 236);
   border-radius: 4px;
-  margin-left: 20px;
+  /* margin-left: 20px; */
   text-align: center;
   display: inline-block;
 }
