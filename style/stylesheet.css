@@ -41,6 +41,14 @@ h5 {
   color: orange;
 }
 
+tr {
+  color: green
+}
+
+/* img{
+  width: 200px
+} */
+
 
 .blue-and-bold {
   color: blue;
