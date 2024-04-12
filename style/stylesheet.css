@@ -88,13 +88,13 @@ a:visited {
 
 /* Makes links purple and bold when hovered over */
 a:hover {
-  color: rgb(245, 189, 245);
+  color: yellow;
   font-weight: bold;
   background-color: rgb(100, 144, 195);
 }
 
 a:active {
-  color: rgb(245, 189, 245);
+  color: gainsboro;
   font-weight: bold;
   padding: 4px;
 }
